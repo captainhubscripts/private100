@@ -1,0 +1,2 @@
+if Player.UserId == 4211048439 or Player.UserId == 464844128 then
+print("Valid Private User found! wait 3-5 seconds to load")
